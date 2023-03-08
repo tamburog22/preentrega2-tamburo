@@ -65,6 +65,16 @@ font-family: 'Roboto', sans-serif;*/
 .main-pc{
 margin-top: 3%;
 }
+.h1-cel{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 6rem;
+    font-weight: 700;
+}
+.h2-cel{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
 /*contacto*/
 .contac{
     margin-top: 3%;
